@@ -73,7 +73,7 @@ header {
 }
 
 .btn {
-  border: none;
+  border: solid white;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
@@ -94,7 +94,7 @@ button[disabled] {
 }
 
 button:hover {
-    box-shadow: 2px 2px 2px black;
+    border: solid black;
 }
 
 .float-right {
