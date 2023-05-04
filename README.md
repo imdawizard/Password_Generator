@@ -7,7 +7,6 @@
 	-A border was added to the hover ability on the “Generate Password” button, essentially giving it a ‘highlighted’ view.
 
 
-
 #Screenshot:
 
 #Link to deployed application:
