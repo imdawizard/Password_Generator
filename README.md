@@ -7,7 +7,6 @@
 	-A border was added to the hover ability on the “Generate Password” button, essentially giving it a ‘highlighted’ view.
 
 Link to github password_generator repo: https://github.com/imdawizard/Password_Generator
-test
 
 #Screenshot:
 ![Screenshot 2023-05-03 215625](https://user-images.githubusercontent.com/122409588/236109682-03362ae2-0685-43e1-9263-ddbdedb85315.png)
